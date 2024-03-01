@@ -83,6 +83,8 @@ This project serves as the back-end API for a simple "Hello world" application, 
 
 - The project is ready to use as a back-end API for a front-end application.
 - The API endpoint `/greetings/random` returns a random greeting in JSON format.
+
+- The application is designed to be used in conjunction with the React front-end. To run the front-end, please refer to the [Hello-React-Front-End](https://github.com/AlierPM/hello-react-front-end) repository.
   
     ```bash
     {
@@ -150,7 +152,7 @@ To execute tests:
 
 - [Microverse](https://www.microverse.org)
 - [Rails Guides](https://guides.rubyonrails.org/)
-- [Heroku](https://www.heroku.com)
+
 
 <a name="faq"></a>
 
@@ -163,9 +165,12 @@ To execute tests:
 
 ##  License
 
-- This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+This project is [MIT](./License) licensed.
 
 ---
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
